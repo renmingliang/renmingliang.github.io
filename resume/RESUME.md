@@ -2,8 +2,7 @@
 
 - 手机：15607338391 ( 湖南株洲 )
 - Email：renmingliang0736@qq.com
-- 微信号：rmlyy1993130
-
+- 微信号：同手机号
 
 # 基本信息
 
@@ -51,8 +50,6 @@
 
 项目描述：采用百分比单位适配移动端，再通过设定底部导航链接地址，来进行主页签的切换，用户页展示金额信息采用echarts.js来绘制，此外采用iscroll框架来实现下拉刷新、上拉加载更多内容。
 
-<br>
-
 ### 二、官网
 #### 家家365
 线上地址：[http://www.jaja365.cn](http://www.jaja365.cn)
@@ -86,7 +83,6 @@
 
 #### 宜盈网
 线上地址：[https://www.1win2.com/](https://www.1win2.com/)
-<br>
 
 ### 三、后台管理
 #### 业务系统（保密）
@@ -104,28 +100,25 @@ github地址：[https://github.com/renmingliang/vue-lottery](https://github.com/
 技术选型：vue + vuex + axios + mock + webpack
 
 项目描述：针对年会抽奖的项目，根据vue框架搭建，通过用户关注公众号后绑定，进入抽奖池。具体可看以上链接文章。
-<br>
 
 ### 四、其他项目
 #### 小程序（Vote助手）
 开发工具：微信web开发者工具
 
+github地址：[https://github.com/renmingliang/wx-project](https://github.com/renmingliang/wx-project)
 项目描述：本项目是为了提升自我技术能力，基于微信小程序的开发，主要功能是类似群通知活动、投票、评分的。
 
 #### 仿美团APP
 开发工具：WebStorm + Genymotion + Android Studio + Oracle VM VirtualBox
 
+github地址：[https://github.com/renmingliang/rn-app](https://github.com/renmingliang/rn-app)
+
 项目描述：采用react-native框架，将整个app设计划分首页，商家，我的，更多四个模块组件，同时增加一个模块组件main，作为中介者模块，来监听这四个模块间的内容加载，运用组件化思维单独书写render每一页面中的相关内容,并将一部分内容通过抓包形式，把获取得到的线上网络数据加载至webView内容中，通过原型组件protoType来传递参数进行通信，利用点击事件来改变其对应默认状态，通过路由组件navigator来实现其页面间跳转。基于Genymotion和Android Studio来模拟查看最终完成效果。
 
-#### 购物模块结算的开发
-开发工具：HBuilder
-
-技术选型：angular1 + angular-route
-
-项目描述：主要利用angular框架来实现本开发，通过angular-route来实现页面模块间跳转。通过对后台服务请求获取数据，首页模块实现产品展示及模糊搜索等功能；用户管理模块实现了登录、注册、修改、查看信息等功能；购物车模块实现了查看、购买、修改产品数量等功能；订单模块实现了查看、删除等功能。
-
-#### 小游戏（flybird）
+#### 小游戏（FlyBird）
 开发工具：WebStorm
+
+github地址：[https://github.com/renmingliang/FlyBird](https://github.com/renmingliang/FlyBird)
 
 技术选型：canvas + underscore + simple-inheritance
 
