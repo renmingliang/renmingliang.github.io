@@ -21,7 +21,7 @@
 ## 凯撒文化 （ 2018年3月 ~ 至今 ）
 担任前端工程师，根据公司游戏运营需求，基于原生html开发游戏官网，以及vue开发的后台管理系统，至今项目都已顺利投入使用，工作完成及时，个人技术得到进一步提升，为公司创造一定的价值。
 
-## 保趣科技 （ 2016年12月 ~ 2018年3月）
+## 保趣科技 （ 2016年8月 ~ 2018年3月）
 担任前端工程师（只有我一人），基于微信开发了保险管家服务号，天马养车，家家365公众号的开发，相关的官网项目，以及后台管理系统开发。尽管任务重，压力大，但是依旧如期完成开发项目，确保项目的正式上线发布。得到领导与同事的一致赞许，技术能力也不断提高，年底也被评为优秀员工。
 
 ## 臻鼎科技 （ 2015年6月 ~ 2016年7月 ）
@@ -85,16 +85,17 @@
 线上地址：[https://www.1win2.com/](https://www.1win2.com/)
 
 #### 凯撒文化品牌官网
-线上地址：[http://www.kaiser.com.cn/index](hhttp://www.kaiser.com.cn/index)
+线上地址：[http://www.kaiser.com.cn](http://www.kaiser.com.cn/index)
 
 ### 三、后台管理
+#### 经分系统
 开发工具：VScode + Postman
 
-技术选型：gulp + scss + jq + layui
+技术选型：gulp + scss + jq + layui + art-template + echart
 
-项目描述：基于原生html开发的后台系统，包含echart图表数据分析，以及用户权限操作配置。本人主要负责维护功能稳定及后续需求。
+项目描述：兼容IE8，基于原生html开发的BI后台系统，包含echart图表数据分析，以及用户权限操作配置。采用gulp打包编译发布，art-template模板引擎渲染。
 
-#### IP资料库（对内）
+#### IP资料库
 开发工具：VScode + Postman
 
 技术选型：webpack + vue + vuex + vue-router + element-UI + axios + scss
