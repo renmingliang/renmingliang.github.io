@@ -29,47 +29,22 @@
 
 # 项目经历
 ### 一、微信公众号
-#### 家家365、保险管家服务号
+#### 家家365[2016/12-2017/2]、保险管家服务号[2017/3-2017/4]
 开发工具：sublime + HBuilder + Postman
 
 技术选型：jquery +mui + jquery.lazyload
 
 项目描述：家家365针对C端用户，售非车险。保险管家服务号针对B端代理人，售车险。两个公众号都采取mui来快速搭建页面布局开发，根据设定底部导航链接地址，来进行主页签的切换，也采用mui来实现下拉刷新、上拉加载更多内容。采用jquery.lazyload滚动懒加载图片资源。但家家365增加论坛形式话题，来活跃和吸引用户。
 
-#### 天马养车
+#### 天马养车[2017/4-2017/4]
 开发工具：sublime + HBuilder + Postman
 
 技术选型：jquery +mui + 百度地图开发平台
 
 项目描述：基于车保养的平台，页面框架大致形式同家家365公众号，尤为不同的是采用百度地图开放平台，来根据车主当前位置推送最近相关信息，所以主要在于啃百度地图的API接口。
 
-#### 宜盈网
-开发工具：sublime + Webstorm + Postman
-
-技术选型：jquery + jquery.flexslider + jquery.noty.packaged + jquery.cookie + iscroll + echarts
-
-项目描述：采用百分比单位适配移动端，再通过设定底部导航链接地址，来进行主页签的切换，用户页展示金额信息采用echarts.js来绘制，此外采用iscroll框架来实现下拉刷新、上拉加载更多内容。
-
 ### 二、官网
-#### 家家365
-线上地址：[http://www.jaja365.cn](http://www.jaja365.cn)
-
-开发工具：sublime + Postman
-
-技术选型：jquery + jquery.lazyload + swiper + art-template + jquery-qrcode + layer + My97DatePicker
-
-项目描述：基于销售非车险的项目，采用jquery.lazyload来懒加载图片资源，特别采用模板引擎art-template来渲染DOM加载页面，优化页面打开性能。利用jquery-qrcode生成二维码，引导用户扫一扫进入移动端购买。同时也针对某些特定产品支持在线投保，以及批量上传用户数据投保下单。
-
-#### 保险管家服务号
-线上地址：[http://www.baoxianadmin.com](http://www.baoxianadmin.com)
-
-开发工具：sublime + Webstorm + Postman
-
-技术选型：jquery + bootstrap + My97DatePicker + jquery.validate
-
-项目描述：基于车险的项目，对接华安，平安，人保，以及英大四家车险平台，采用bootstrap来实现页面布局效果，jquery.validate实现表单的验证。
-
-#### 保趣科技
+#### 保趣科技[2017/6-2017/6]
 线上地址：[http://www.baoqukeji.com](http://www.baoqukeji.com)
 
 开发工具：sublime + webstorm + Postman
@@ -78,31 +53,46 @@
 
 项目描述：对外官网展示项目，本项目主要在于技术上革新，不同于往常工作流程，采用gulp+requireJS来完成前端开发打包的工作。
 
-#### 民太安经纪
+#### 家家365[2017/5-2017/5]
+线上地址：[http://www.jaja365.cn](http://www.jaja365.cn)
+
+开发工具：sublime + Postman
+
+技术选型：jquery + jquery.lazyload + swiper + art-template + jquery-qrcode + layer + My97DatePicker
+
+项目描述：基于销售非车险的项目，采用jquery.lazyload来懒加载图片资源，特别采用模板引擎art-template来渲染DOM加载页面，优化页面打开性能。利用jquery-qrcode生成二维码，引导用户扫一扫进入移动端购买。同时也针对某些特定产品支持在线投保，以及批量上传用户数据投保下单。
+
+#### 保险管家服务号[2016/9-2016/11]
+线上地址：[http://www.baoxianadmin.com](http://www.baoxianadmin.com)
+
+开发工具：sublime + Webstorm + Postman
+
+技术选型：jquery + bootstrap + My97DatePicker + jquery.validate
+
+项目描述：基于车险的项目，对接华安，平安，人保，以及英大四家车险平台，采用bootstrap来实现页面布局效果，jquery.validate实现表单的验证。
+
+#### 民太安经纪[2017/7-2017/8]
 线上地址：[http://www.mtaib.com](http://www.mtaib.com)
 
-#### 宜盈网
-线上地址：[https://www.1win2.com/](https://www.1win2.com/)
-
-#### 凯撒文化品牌官网
+#### 凯撒文化品牌官网[2018/3-2018/4]
 线上地址：[http://www.kaiser.com.cn](http://www.kaiser.com.cn/index)
 
 ### 三、后台管理
-#### 经分系统
+#### 经分系统[2018/5-2018/7]
 开发工具：VScode + Postman
 
 技术选型：gulp + scss + jq + layui + art-template + echart
 
 项目描述：兼容IE8，基于原生html开发的BI后台系统，包含echart图表数据分析，以及用户权限操作配置。采用gulp打包编译发布，art-template模板引擎渲染。
 
-#### IP资料库
+#### IP资料库[2018/5-2018/5]
 开发工具：VScode + Postman
 
 技术选型：webpack + vue + vuex + vue-router + element-UI + axios + scss
 
 项目描述：基于vue开发的后台系统，包含文件上传预览上传下载，以及用户权限操作配置。
 
-#### 抽奖系统（已开源）
+#### 抽奖系统（已开源）[2018/1-2018/1]
 在线示例：[https://renmingliang.github.io/vue-lottery](https://renmingliang.github.io/vue-lottery)
 
 github地址：[https://github.com/renmingliang/vue-lottery](https://github.com/renmingliang/vue-lottery)
@@ -115,7 +105,7 @@ github地址：[https://github.com/renmingliang/vue-lottery](https://github.com/
 
 项目描述：针对年会抽奖的项目，根据vue框架搭建，通过用户关注公众号后绑定，进入抽奖池。具体可看以上链接文章。
 
-### 四、其他项目
+### 四、其他项目[业余时间]
 #### 小程序（Vote助手）
 开发工具：微信web开发者工具
 
