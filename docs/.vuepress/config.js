@@ -1,4 +1,12 @@
 module.exports = {
-  title: 'Hello VuePress',
-  description: 'Just playing around'
+  title: 'Ming Liang',
+  description: 'Just playing around',
+
+  themeConfig: {
+    nav: [
+      { text: 'Guide', link: '/guide/' },
+      { text: 'Contact', link: '/contact/' },
+      { text: 'GitHub', link: 'https://github.com/renmingliang' },
+    ]
+  }
 }
