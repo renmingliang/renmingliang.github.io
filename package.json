@@ -1,0 +1,26 @@
+{
+  "name": "renmingliang",
+  "version": "1.0.0",
+  "description": "personal for web",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renmingliang/renmingliang.github.io.git"
+  },
+  "keywords": [
+    "vue-press"
+  ],
+  "author": "renmingliang0736@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renmingliang/renmingliang.github.io/issues"
+  },
+  "homepage": "https://github.com/renmingliang/renmingliang.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
