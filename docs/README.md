@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: /avator.jpg
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
+heroText: Ming Liang
+tagline: 现在的向上，是努力遇见更好的自己
+actionText: 开始了解 →
 actionLink: /guide/
 features:
 - title: 简洁至上
