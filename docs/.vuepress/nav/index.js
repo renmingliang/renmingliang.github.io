@@ -15,7 +15,7 @@ module.exports = [
         link: '/network-security/'
       },
       {
-        text: 'SSR',
+        text: '服务端渲染',
         items: [
           {
             text: 'Nuxt',
@@ -32,12 +32,8 @@ module.exports = [
         ]
       },
       {
-        text: 'Build',
+        text: '编译工具',
         items: [
-          {
-            text: 'Tool',
-            link: '/build/'
-          },
           {
             text: 'Grunt',
             link: '/build/grunt'
