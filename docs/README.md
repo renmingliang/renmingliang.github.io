@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /avator.jpg
-heroText: Ming Liang
+heroText: （づ￣3￣）づ❤️╭～
 tagline: 现在的向上，是努力遇见更好的自己
 actionText: 开始了解 →
 actionLink: /guide/

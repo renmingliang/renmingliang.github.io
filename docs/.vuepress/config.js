@@ -1,39 +1,58 @@
 module.exports = {
-  dest: '../../vuepress',
+  dest: '../vuepress',
   title: 'Ming Liang',
   description: 'Just playing around',
 
   themeConfig: {
-    nav: [
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Framework', link: '/framework/' },
-      { text: 'Contact', link: '/contact/' },
-      { text: 'GitHub', link: 'https://github.com/renmingliang' },
-    ],
+    nav: require('./nav'),
     sidebar: {
+      '/guide/': getGuideSidebar(),
       '/framework/': getFrameworkSidebar()
     }
   }
 }
 
+function getGuideSidebar() {
+  return  [
+    '',
+    'permission'
+  ]
+}
+
 function getFrameworkSidebar() {
   return [
     {
-      title: '技术栈',
+      title: '框架应用',
       collapsable: false,
       children: [
         '',
-        'vue/element-ui'
+        'vue',
+        'react',
+        'nodejs'
       ]
     },
     {
-      title: '服务端渲染',
+      title: '框架示例',
       collapsable: false,
       children: [
-        'ssr/',
-        'ssr/nextjs',
-        'ssr/nuxtjs',
-        'ssr/razzle'
+        'vue-event-bus',
+        'vue-element-ui',
+      ]
+    },
+    {
+      title: '跨平台',
+      collapsable: false,
+      children: [
+        'react-native',
+        'electron'
+      ]
+    },
+    {
+      title: '可视化',
+      collapsable: false,
+      children: [
+        'canvas',
+        'svg'
       ]
     }
   ]

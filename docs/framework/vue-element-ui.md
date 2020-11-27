@@ -1,7 +1,8 @@
-# 表格列宽度超限
+# Element-UI
 
 ## 异常现象
-GitHub已有针对该异常的讨论，详见：[https://github.com/ElemeFE/element/issues/10308](https://github.com/ElemeFE/element/issues/10308)
+
+表格列宽超限，GitHub已有针对该异常的讨论，详见：[https://github.com/ElemeFE/element/issues/10308](https://github.com/ElemeFE/element/issues/10308)
 <br />
 具体异常现象可参看下图：
 ![Safari-show-overflow-tooltip.png](./images/Safari-show-overflow-tooltip.png)
