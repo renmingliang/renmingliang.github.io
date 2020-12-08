@@ -1,5 +1,5 @@
 module.exports = {
-  dest: '../vuepress',
+  dest: './blog',
   title: 'Ming Liang',
   description: 'Just playing around',
 
