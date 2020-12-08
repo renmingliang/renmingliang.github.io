@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/blog/',
   dest: './blog',
   title: 'Ming Liang',
   description: 'Just playing around',
